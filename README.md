@@ -1,2 +1,2 @@
 # git-angular-promise-vs-observable
-# Simple description
+# This is for tutorial purpose
